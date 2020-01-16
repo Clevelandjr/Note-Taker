@@ -1,3 +1,4 @@
+//load data and link to data resources
 const notesData = require("../db/db.json");
 const fs = require("fs");
 
